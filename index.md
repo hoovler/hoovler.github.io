@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+[Image Repository](images.html)
+
 Welcome to **{{ site.title }}**, where I _will_ provide (and have written and stored locally) _How-To_ posts, guides, best practice, and other substantive content related to software development and data engineering.  But, for now, this is a simple static content host while I get my AWS Django / Apache server secured for public access.
 
 # The Datavangelist's Static File Repo
